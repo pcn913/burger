@@ -1,0 +1,29 @@
+{
+  "name": "burger-app",
+  "version": "1.0.0",
+  "description": "burger app for class",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcn913/burger.git"
+  },
+  "keywords": [
+    "burgeeeeeeeers"
+  ],
+  "author": "pcn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcn913/burger/issues"
+  },
+  "homepage": "https://github.com/pcn913/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.8",
+    "mysql": "^2.13.0"
+  }
+}
