@@ -1,28 +1,28 @@
 insert into burgers
 (
-	burger_name, devoured, created_at
+	burger_name, devoured
 )
 values
 (
-	'mcchicken', true, now()
+	'mcchicken', true
 )
 
 ;
 insert into burgers
 (
-	burger_name, devoured, created_at
+	burger_name, devoured
 )
 values
 (
-	'mcfish', true, now()
+	'mcfish', true
 )
 
 ;
 insert into burgers
 (
-	burger_name, devoured, created_at
+	burger_name, devoured
 )
 values
 (
-	'mclamb', true, now()
+	'mclamb', true
 )
